@@ -2,7 +2,7 @@
 
 🎓 **CS @ Georgia Tech** · M.S. Quantitative & Computational Finance (incoming)  
 📊 Aspiring **Quant Researcher / Trader / Developer**  
-💻 Experience: **Morgan Stanley (2x SWE/Infra)** · **Equifax (ML Engineer)** · **Georgia Tech Student Foundation (Quant Director)**  
+💻 Experience: **Morgan Stanley (2x SWE Intern)** · **Equifax (ML Engineer Intern)** · **Georgia Tech Student Foundation (Senior Quant Director)**  
 
 ---
 
