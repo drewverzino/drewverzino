@@ -21,7 +21,7 @@
 ---
 
 ### 🔹 Featured Projects
-- 📈 [Option-Density-Viz](https://github.com/yourusername/option-density-viz): Extracting risk-neutral densities from BTC/ETH options via Deribit API, SVI + COS methods  
+- 📈 [Option-Density-Viz](https://github.com/drewverzino/option-density-viz): Extracting risk-neutral densities from BTC/ETH options via Deribit API, SVI + COS methods  
 - 🤖 [RL Simulator](https://github.com/yourusername/rl-simulator): Multi-agent RL for SPY/BTC/10Y limit order books; best policy 39% CAGR, Sharpe 1.3  
 - ⚡ [Deep RL for Optimal Execution](https://github.com/yourusername/deep-rl-execution): PPO/SAC agents benchmarked against Almgren–Chriss optimal execution  
 
