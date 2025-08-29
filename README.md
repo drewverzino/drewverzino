@@ -1,4 +1,4 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Drew 👋
 
 🎓 **CS @ Georgia Tech** · M.S. Quantitative & Computational Finance (incoming)  
 📊 Aspiring **Quant Researcher / Trader / Developer**  
