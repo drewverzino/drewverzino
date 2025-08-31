@@ -29,11 +29,6 @@
 
 ---
 
-## 📈 GitHub Snapshot
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewverzino&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect
 - 📫 Email: [drew.verzino@gmail.com](mailto:drew.verzino@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/drew-verzino](https://linkedin.com/in/drew-verzino)  
