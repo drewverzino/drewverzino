@@ -23,7 +23,7 @@
 
 ## 🔬 Selected Projects
 - 📊 **[Option-Density-Viz](https://github.com/drewverzino/option-density-viz):** Extracted risk-neutral densities from BTC/ETH options (Deribit API), fit arbitrage-free SVI smiles, applied Breeden–Litzenberger + COS methods, and built Plotly analytics dashboards  
-- 🤖 **[Financial Markets RL Simulator](https://github.com/drewverzino/rl-simulator):** Built multi-agent RL limit order book simulator (SPY, BTC, 10Y); PPO/SAC agents achieved 39% CAGR and Sharpe 1.3 over 10 years  
+- 🤖 **[Financial Markets RL Simulator](https://github.com/drewverzino/market-rl-simulator):** Built multi-agent RL limit order book simulator (SPY, BTC, 10Y); PPO/SAC agents achieved 39% CAGR and Sharpe 1.3 over 10 years  
 - ⚡ **[Deep RL for Optimal Execution](https://github.com/drewverzino/deep-rl-execution):** Trained PPO/SAC agents to minimize market impact vs Almgren–Chriss benchmark; evaluated with execution cost, inventory risk, and Sharpe ratio  
 
 ---
