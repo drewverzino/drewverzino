@@ -24,7 +24,7 @@
 ## 🔬 Selected Projects
 - 📊 **[Option-Density-Viz](https://github.com/drewverzino/option-density-viz):** Extracted risk-neutral densities from BTC/ETH options (Deribit API), fit arbitrage-free SVI smiles, applied Breeden–Litzenberger + COS methods, and built Plotly analytics dashboards  
 - 🤖 **[Financial Markets RL Simulator](https://github.com/drewverzino/market-rl-simulator):** Built multi-agent RL limit order book simulator (SPY, BTC, 10Y); PPO/SAC agents achieved 39% CAGR and Sharpe 1.3 over 10 years  
-- ⚡ **[Deep RL for Optimal Execution](https://github.com/drewverzino/deep-rl-execution):** Trained PPO/SAC agents to minimize market impact vs Almgren–Chriss benchmark; evaluated with execution cost, inventory risk, and Sharpe ratio
+- 📐 **[Neural PDE Models for Option Greeks](https://github.com/drewverzino/Neural-PDE-Option-Greeks):** Built a physics-informed neural network embedding the Black–Scholes PDE to generate option Greeks across strikes and volatilities, delivering faster and more stable sensitivities than finite-difference and Monte Carlo methods  
 - 🏦 **[Company Bankruptcy Predictor](https://github.com/jwstanly/company-bankruptcy-predictor):** Developed ML pipeline to forecast corporate bankruptcy using financial ratios. Trained Logistic Regression, Random Forest, SVM, Gradient Boosting, and Neural Nets; best model (SVM with RBF kernel) achieved ~96–97% accuracy with strong recall on bankruptcy cases.  
 
 ---
